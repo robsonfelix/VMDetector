@@ -1,19 +1,5 @@
 Detects whether your application is running inside a Virtual Machine.
 
-Platform status:
----
-  - VMWare Workstation Player - **COMPLETED**
-  - Microsoft Hyper-V under Windows Server Datacenter 2012 - **COMPLETED**
-  - Microsoft Virtual PC - **COMPLETED**
-  - QEMU - **PARTIALLY COMPLETED**
-  - VirtualBox - **IN PROGRESS**
-  - Xen - **TBD**
-  - Citrix - **TBD**
-
-Compatibility:
----
-  - .NET Framework 4.0+
-
 At a glance:
 ---
 **C#:**
@@ -29,10 +15,23 @@ if (VirtualMachineDetector.Assert(out hypervisorName))
    Console.WriteLine("DETECTED {0}!", hypervisorName);
 ```
 
+Platform status:
+---
+  - VMWare Workstation Player - **COMPLETED**
+  - Microsoft Hyper-V under Windows Server Datacenter 2012 - **COMPLETED**
+  - Microsoft Virtual PC - **COMPLETED**
+  - QEMU - **PARTIALLY COMPLETED**
+  - VirtualBox - **IN PROGRESS**
+  - Xen - **TBD**
+  - Citrix - **TBD**
+
+Compatibility:
+---
+  - .NET Framework 4.0+
+
 Latest Changes:
 ---
 	- 2017-07-17 - initial version
-
 
 Contact:
 ---
