@@ -1,8 +1,8 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Management;
 using System.Text;
+using System.Web.Script.Serialization;
 
 abstract class BaseWin32Entity
 {
@@ -77,7 +77,8 @@ abstract class BaseWin32Entity
 
     protected string ToJSON(object value)
     {
-        return JsonConvert.SerializeObject(value);
+        var js = new JavaScriptSerializer();
+        return js.Serialize(value);
     }
 
     protected T ParseValue<T>(ManagementBaseObject obj, string key)
