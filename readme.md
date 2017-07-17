@@ -1,0 +1,1 @@
+Detects whether your application is running inside a Virtual Machine.
