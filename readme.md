@@ -19,6 +19,11 @@ At a glance:
 **C#:**
 ```csharp
 var hypervisorName = "";
+// check without the need to know the hypervisor name
+if (VirtualMachineDetector.Assert())
+   Console.WriteLine("VIRTUAL MACHINE DETECTED !");
+
+// check and obtain hypervisor name, if available
 if (VirtualMachineDetector.Assert(out hypervisorName))
    Console.WriteLine("DETECTED {0}!", hypervisorName);
 ```
