@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMDetectorApp", "VMDetector
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{4C9822BB-003E-4145-B738-B264D0A48EAC}"
 	ProjectSection(SolutionItems) = preProject
-		license.md = license.md
+		..\license.md = ..\license.md
 		SharedAssemblyInfo.cs = SharedAssemblyInfo.cs
 	EndProjectSection
 EndProject
