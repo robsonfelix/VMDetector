@@ -87,6 +87,12 @@ public class VirtualMachineDetector
         return success;
     }
 
+    public static bool Assert()
+    {
+        string hypervisorName;
+        return Assert(out hypervisorName);
+    }
+
     static IEnumerable<WindowsService> GetWindowsServices()
     {
         return ServiceController.GetServices()
