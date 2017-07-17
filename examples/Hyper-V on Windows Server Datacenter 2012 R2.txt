@@ -1,0 +1,392 @@
+
+MOTHERBOARD INFO
+================
+Availability = 3
+Caption = Motherboard
+ConfigManagerErrorCode = 
+ConfigManagerUserConfig = 
+CreationClassName = Win32_MotherBoardDevice
+Description = Motherboard
+DeviceID = Motherboard
+ErrorCleared = 
+ErrorDescription = 
+InstallDate = 
+LastErrorCode = 
+Name = Motherboard
+PNPDeviceID = 
+PowerManagementCapabilities = 
+PowerManagementSupported = 
+PrimaryBusType = ISA
+RevisionNumber = 
+SecondaryBusType = 
+Status = OK
+StatusInfo = 
+SystemCreationClassName = Win32_ComputerSystem
+SystemName = SRV-AD01
+
+
+BIOS INFO
+=========
+BiosCharacteristics = [3,9,15,16,19,28,32,42,48,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79]
+BIOSVersion = ["VRTUAL - 1","Hyper-V UEFI Release v1.0","EDK II - 10000"]
+BuildNumber = 
+Caption = Hyper-V UEFI Release v1.0
+CodeSet = 
+CurrentLanguage = 
+Description = Hyper-V UEFI Release v1.0
+IdentificationCode = 
+InstallableLanguages = 
+InstallDate = 
+LanguageEdition = 
+ListOfLanguages = 
+Manufacturer = Microsoft Corporation
+Name = Hyper-V UEFI Release v1.0
+OtherTargetOS = 
+PrimaryBIOS = True
+ReleaseDate = 20121126000000.000000+000
+SerialNumber = 0660-5868-4588-3045-3853-7708-77
+SMBIOSBIOSVersion = Hyper-V UEFI Release v1.0
+SMBIOSMajorVersion = 2
+SMBIOSMinorVersion = 4
+SMBIOSPresent = True
+SoftwareElementID = Hyper-V UEFI Release v1.0
+SoftwareElementState = 3
+Status = OK
+TargetOperatingSystem = 0
+Version = VRTUAL - 1
+
+BIOS_Characteristics_Not_Supported
+Plug_and_Play_is_supported
+Boot_from_CD_is_supported
+Selectable_Boot_is_supported
+EDD_Enhanced_Disk_Drive_Specification_is_supported
+Int_14h_Serial_Services_are_supported
+ACPI_supported
+Reserved_Bios_Vendor_3
+Reserved_System_Vendor_1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMPUTER INFO
+=============
+AdminPasswordStatus = 3
+AutomaticManagedPagefile = True
+AutomaticResetBootOption = True
+AutomaticResetCapability = True
+BootOptionOnLimit = 
+BootOptionOnWatchDog = 
+BootROMSupported = True
+BootupState = Normal boot
+Caption = SRV-AD01
+ChassisBootupState = 3
+CreationClassName = Win32_ComputerSystem
+CurrentTimeZone = -180
+DaylightInEffect = False
+Description = AT/AT COMPATIBLE
+DNSHostName = SRV-AD01
+Domain = intranet.local
+DomainRole = 5
+EnableDaylightSavingsTime = True
+FrontPanelResetStatus = 3
+HypervisorPresent = True
+InfraredSupported = False
+InitialLoadInfo = 
+InstallDate = 
+KeyboardPasswordStatus = 3
+LastLoadInfo = 
+Manufacturer = Microsoft Corporation
+Model = Virtual Machine
+Name = SRV-AD01
+NameFormat = 
+NetworkServerModeEnabled = True
+NumberOfLogicalProcessors = 4
+NumberOfProcessors = 1
+OEMLogoBitmap = 
+OEMStringArray = ["[MS_VM_CERT/SHA1/9b80ca0d5dd061ec9da4e494f4c3fd1196270c22]","00000000000000000000000000000000","To be filled by OEM"]
+PartOfDomain = True
+PauseAfterReset = -1
+PCSystemType = 1
+PCSystemTypeEx = 1
+PowerManagementCapabilities = 
+PowerManagementSupported = 
+PowerOnPasswordStatus = 3
+PowerState = 0
+PowerSupplyState = 3
+PrimaryOwnerContact = 
+PrimaryOwnerName = Windows User
+ResetCapability = 1
+ResetCount = -1
+ResetLimit = -1
+Roles = ["LM_Workstation","LM_Server","SQLServer","Primary_Domain_Controller","Timesource","DialIn","NT","DFS"]
+Status = OK
+SupportContactDescription = 
+SystemStartupDelay = 
+SystemStartupOptions = 
+SystemStartupSetting = 
+SystemType = x64-based PC
+ThermalState = 3
+TotalPhysicalMemory = 8586825728
+UserName = 
+WakeUpType = 6
+Workgroup = 
+
+
+DEVICES INFO
+============
+manufacturer=(standard system devices), name=acpi module device, model=, caption=acpi module device, description=acpi module device
+manufacturer=microsoft, name=root print queue, model=, caption=root print queue, description=local print queue
+manufacturer=microsoft, name=microsoft xps document writer, model=, caption=microsoft xps document writer, description=local print queue
+manufacturer=microsoft, name=volume manager, model=, caption=volume manager, description=volume manager
+manufacturer=microsoft, name=generic volume, model=, caption=generic volume, description=generic volume
+manufacturer=microsoft, name=microsoft hyper-v guest shutdown, model=, caption=microsoft hyper-v guest shutdown, description=microsoft hyper-v guest shutdown
+manufacturer=microsoft, name=microsoft hyper-v virtual machine bus, model=, caption=microsoft hyper-v virtual machine bus, description=microsoft hyper-v virtual machine bus
+manufacturer=(standard system devices), name=remote desktop mouse device, model=, caption=remote desktop mouse device, description=remote desktop mouse device
+manufacturer=(standard display types), name=microsoft basic display driver, model=, caption=microsoft basic display driver, description=microsoft basic display driver
+manufacturer=microsoft, name=microsoft hyper-v video, model=, caption=microsoft hyper-v video, description=microsoft hyper-v video
+manufacturer=microsoft, name=microsoft ipv4 ipv6 transition adapter bus, model=, caption=microsoft ipv4 ipv6 transition adapter bus, description=generic software device
+manufacturer=microsoft, name=generic volume, model=, caption=generic volume, description=generic volume
+manufacturer=microsoft, name=hid-compliant mouse, model=, caption=hid-compliant mouse, description=hid-compliant mouse
+manufacturer=microsoft, name=wan miniport (ip), model=, caption=wan miniport (ip), description=wan miniport (ip)
+manufacturer=microsoft, name=umbus enumerator, model=, caption=umbus enumerator, description=umbus enumerator
+manufacturer=microsoft, name=generic volume, model=, caption=generic volume, description=generic volume
+manufacturer=microsoft, name=wan miniport (sstp), model=, caption=wan miniport (sstp), description=wan miniport (sstp)
+manufacturer=microsoft, name=wan miniport (ikev2), model=, caption=wan miniport (ikev2), description=wan miniport (ikev2)
+manufacturer=microsoft, name=generic volume, model=, caption=generic volume, description=generic volume
+manufacturer=microsoft, name=composite bus enumerator, model=, caption=composite bus enumerator, description=composite bus enumerator
+manufacturer=microsoft, name=microsoft virtual drive enumerator, model=, caption=microsoft virtual drive enumerator, description=microsoft virtual drive enumerator
+manufacturer=microsoft, name=microsoft isatap adapter, model=, caption=microsoft isatap adapter, description=microsoft isatap adapter
+manufacturer=microsoft, name=microsoft isatap adapter #2, model=, caption=microsoft isatap adapter #2, description=microsoft isatap adapter
+manufacturer=microsoft, name=microsoft storage spaces controller, model=, caption=microsoft storage spaces controller, description=microsoft storage spaces controller
+manufacturer=microsoft, name=microsoft kernel debug network adapter, model=, caption=microsoft kernel debug network adapter, description=microsoft kernel debug network adapter
+manufacturer=microsoft, name=microsoft hyper-v virtual keyboard, model=, caption=microsoft hyper-v virtual keyboard, description=microsoft hyper-v virtual keyboard
+manufacturer=microsoft, name=wan miniport (ipv6), model=, caption=wan miniport (ipv6), description=wan miniport (ipv6)
+manufacturer=microsoft, name=umbus root bus enumerator, model=, caption=umbus root bus enumerator, description=umbus root bus enumerator
+manufacturer=(standard computers), name=acpi x64-based pc, model=, caption=acpi x64-based pc, description=acpi x64-based pc
+manufacturer=microsoft, name=microsoft hyper-v scsi controller, model=, caption=microsoft hyper-v scsi controller, description=microsoft hyper-v scsi controller
+manufacturer=microsoft, name=microsoft acpi-compliant system, model=, caption=microsoft acpi-compliant system, description=microsoft acpi-compliant system
+manufacturer=, name=, model=, caption=, description=
+manufacturer=microsoft, name=microsoft basic render driver, model=, caption=microsoft basic render driver, description=microsoft basic render driver
+manufacturer=microsoft, name=microsoft hyper-v remote desktop control channel, model=, caption=microsoft hyper-v remote desktop control channel, description=microsoft hyper-v remote desktop control channel
+manufacturer=microsoft, name=wan miniport (pptp), model=, caption=wan miniport (pptp), description=wan miniport (pptp)
+manufacturer=microsoft, name=microsoft hyper-v network adapter, model=, caption=microsoft hyper-v network adapter, description=microsoft hyper-v network adapter
+manufacturer=microsoft, name=wan miniport (network monitor), model=, caption=wan miniport (network monitor), description=wan miniport (network monitor)
+manufacturer=microsoft, name=microsoft hyper-v input, model=, caption=microsoft hyper-v input, description=microsoft hyper-v input
+manufacturer=microsoft, name=microsoft hyper-v generation counter, model=, caption=microsoft hyper-v generation counter, description=microsoft hyper-v generation counter
+manufacturer=(standard system devices), name=system cmos/real time clock, model=, caption=system cmos/real time clock, description=system cmos/real time clock
+manufacturer=microsoft, name=smart card device enumeration bus, model=, caption=smart card device enumeration bus, description=generic software device
+manufacturer=microsoft, name=wan miniport (l2tp), model=, caption=wan miniport (l2tp), description=wan miniport (l2tp)
+manufacturer=microsoft, name=ndis virtual network adapter enumerator, model=, caption=ndis virtual network adapter enumerator, description=ndis virtual network adapter enumerator
+manufacturer=microsoft, name=wan miniport (pppoe), model=, caption=wan miniport (pppoe), description=wan miniport (pppoe)
+manufacturer=(standard system devices), name=remote desktop keyboard device, model=, caption=remote desktop keyboard device, description=remote desktop keyboard device
+manufacturer=(standard cd-rom drives), name=microsoft virtual dvd-rom, model=, caption=microsoft virtual dvd-rom, description=cd-rom drive
+manufacturer=microsoft, name=microsoft hyper-v heartbeat, model=, caption=microsoft hyper-v heartbeat, description=microsoft hyper-v heartbeat
+manufacturer=(standard disk drives), name=microsoft virtual disk, model=, caption=microsoft virtual disk, description=disk drive
+manufacturer=microsoft, name=microsoft hyper-v data exchange, model=, caption=microsoft hyper-v data exchange, description=microsoft hyper-v data exchange
+manufacturer=microsoft, name=microsoft hyper-v volume shadow copy, model=, caption=microsoft hyper-v volume shadow copy, description=microsoft hyper-v volume shadow copy
+manufacturer=(standard system devices), name=microsoft system management bios driver, model=, caption=microsoft system management bios driver, description=microsoft system management bios driver
+manufacturer=(standard monitor types), name=generic non-pnp monitor, model=, caption=generic non-pnp monitor, description=generic non-pnp monitor
+manufacturer=microsoft, name=microsoft hyper-v activation component, model=, caption=microsoft hyper-v activation component, description=microsoft hyper-v activation component
+manufacturer=microsoft, name=microsoft hyper-v remote desktop virtualization, model=, caption=microsoft hyper-v remote desktop virtualization, description=microsoft hyper-v remote desktop virtualization
+manufacturer=(standard system devices), name=plug and play software device enumerator, model=, caption=plug and play software device enumerator, description=plug and play software device enumerator
+manufacturer=microsoft, name=remote desktop device redirector bus, model=, caption=remote desktop device redirector bus, description=remote desktop device redirector bus
+manufacturer=intel, name=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, model=, caption=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, description=intel processor
+manufacturer=intel, name=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, model=, caption=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, description=intel processor
+manufacturer=intel, name=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, model=, caption=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, description=intel processor
+manufacturer=intel, name=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, model=, caption=intel(r) xeon(r) cpu           e5645  @ 2.40ghz, description=intel processor
+
+HARD DRIVES INFO
+================
+manufacturer=(standard disk drives), name=\\.\physicaldrive0, model=microsoft virtual disk, caption=microsoft virtual disk, description=disk drive
+
+WINDOWS SERVICES
+================
+abbyy sdk 11 license server - licensing service (abbyy.licensing.finereaderengine.windows.11.0) - c:\program files (x86)\common files\abbyy\sdk\11\licensing\licensingservice.exe (v10.1.2.43)
+microsoft monitoring agent audit forwarding (adtagent) - c:\windows\system32\adtagent.exe (v7.1.10184.0)
+active directory web services (adws) - c:\windows\adws\microsoft.activedirectory.webservices.exe (v6.3.9600.16384)
+application experience (aelookupsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+application layer gateway service (alg) - c:\windows\system32\alg.exe (v6.3.9600.16384)
+application host helper service (apphostsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+application identity (appidsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+application information (appinfo) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+application management (appmgmt) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+app readiness (appreadiness) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+appx deployment service (appxsvc) (appxsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+asp.net state service (aspnet_state) - c:\windows\microsoft.net\framework64\v4.0.30319\aspnet_state.exe (v4.6.1087.0)
+windows audio endpoint builder (audioendpointbuilder) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows audio (audiosrv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+base filtering engine (bfe) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+background intelligent transfer service (bits) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+bits compact server (bitscompactserver) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+background tasks infrastructure service (brokerinfrastructure) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+computer browser (browser) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+certificate propagation (certpropsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+com+ system application (comsysapp) - c:\windows\system32\dllhost.exe (v6.3.9600.17415)
+cryptographic services (cryptsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+dcom server process launcher (dcomlaunch) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+optimize drives (defragsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+device association service (deviceassociationservice) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+device install service (deviceinstall) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+dfs namespace (dfs) - c:\windows\system32\dfssvc.exe (v6.3.9600.16384)
+dfs replication (dfsr) - c:\windows\system32\dfsrs.exe (v6.3.9600.16384)
+dhcp client (dhcp) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+diagnostics tracking service (diagtrack) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+dns server (dns) - c:\windows\system32\dns.exe (v6.3.9600.17327)
+dns client (dnscache) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+wired autoconfig (dot3svc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+diagnostic policy service (dps) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+device setup manager (dsmsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+extensible authentication protocol (eaphost) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+encrypting file system (efs) (efs) - c:\windows\system32\lsass.exe (v6.3.9600.17415)
+windows event log (eventlog) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+com+ event system (eventsystem) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+function discovery provider host (fdphost) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+function discovery resource publication (fdrespub) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows font cache service (fontcache) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows presentation foundation font cache 3.0.0.0 (fontcache3.0.0.0) - c:\windows\microsoft.net\framework64\v3.0\wpf\presentationfontcache.exe (v3.0.6920.7903)
+group policy client (gpsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+microsoft monitoring agent (healthservice) - c:\program files\microsoft monitoring agent\agent\healthservice.exe (v7.1.10285.0)
+human interface device service (hidserv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+health key and certificate management (hkmsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+network policy server (ias) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+internet explorer etw collector service (ieetwcollectorservice) - c:\windows\system32\ieetwcollector.exe (v11.00.9600.18666)
+iis admin service (iisadmin) - c:\windows\system32\inetsrv\inetinfo.exe (v8.5.9600.16384)
+ike and authip ipsec keying modules (ikeext) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+ip helper (iphlpsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+intersite messaging (ismserv) - c:\windows\system32\ismserv.exe (v6.3.9600.16384)
+kerberos key distribution center (kdc) - c:\windows\system32\lsass.exe (v6.3.9600.17415)
+microsoft key distribution service (kdssvc) - c:\windows\system32\lsass.exe (v6.3.9600.17415)
+cng key isolation (keyiso) - c:\windows\system32\lsass.exe (v6.3.9600.17415)
+kdc proxy server service (kps) (kpssvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+ktmrm for distributed transaction coordinator (ktmrm) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+server (lanmanserver) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+workstation (lanmanworkstation) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+link-layer topology discovery mapper (lltdsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+tcp/ip netbios helper (lmhosts) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+local session manager (lsm) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+multimedia class scheduler (mmcss) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+mozilla maintenance service (mozillamaintenance) - c:\program files (x86)\mozilla maintenance service\maintenanceservice.exe (v44.0.2)
+windows firewall (mpssvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+microsoft crm email router (mscrmemail) - c:\progra~1\micros~1\service\microsoft.crm.tools.emailagent.exe (v8.0.0000.1088)
+distributed transaction coordinator (msdtc) - c:\windows\system32\msdtc.exe (v6.3.9600.16384)
+microsoft iscsi initiator service (msiscsi) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows installer (msiserver) - c:\windows\system32\msiexec.exe (v5.0.9600.16384)
+microsoft online services sign-in assistant (msoidsvc) - c:\program files\common files\microsoft shared\microsoft online services\msoidsvc.exe (v7.250.4303.0)
+windows internal database (mssql$microsoft##wid) - c:\windows\wid\binn\sqlservr.exe (v11.0.2100.60)
+network access protection agent (napagent) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+network connectivity assistant (ncasvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+netlogon (netlogon) - c:\windows\system32\lsass.exe (v6.3.9600.17415)
+network connections (netman) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+network list service (netprofm) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+net.tcp port sharing service (nettcpportsharing) - c:\windows\microsoft.net\framework64\v4.0.30319\smsvchost.exe (v4.0.30319.33440)
+client for nfs (nfsclnt) - c:\windows\system32\nfsclnt.exe (v6.3.9600.16384)
+network location awareness (nlasvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+network store interface service (nsi) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+file replication (ntfrs) - c:\windows\system32\ntfrs.exe (v6.3.9600.16384)
+performance counter dll host (perfhost) - c:\windows\syswow64\perfhost.exe (v6.3.9600.16384)
+performance logs & alerts (pla) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+plug and play (plugplay) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+ipsec policy agent (policyagent) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+power (power) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+printer extensions and notifications (printnotify) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+user profile service (profsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote access management service (ramgmtsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote access auto connection manager (rasauto) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote access connection manager (rasman) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+routing and remote access (remoteaccess) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote registry (remoteregistry) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+rpc endpoint mapper (rpceptmapper) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote procedure call (rpc) locator (rpclocator) - c:\windows\system32\locator.exe (v6.3.9600.16384)
+remote procedure call (rpc) (rpcss) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote access quarantine agent (rqs) - c:\windows\system32\rqs.exe (v6.3.9600.16384)
+resultant set of policy provider (rsopprov) - c:\windows\system32\rsopprov.exe (v6.3.9600.16384)
+special administration console helper (sacsvr) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+security accounts manager (samss) - c:\windows\system32\lsass.exe (v6.3.9600.17415)
+smart card (scardsvr) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+smart card device enumeration service (scdeviceenum) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+task scheduler (schedule) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+smart card removal policy (scpolicysvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+secondary logon (seclogon) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+system event notification service (sens) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote desktop configuration (sessionenv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+internet connection sharing (ics) (sharedaccess) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+shell hardware detection (shellhwdetection) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+microsoft storage spaces smp (smphost) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+snmp trap (snmptrap) - c:\windows\system32\snmptrap.exe (v6.3.9600.16384)
+print spooler (spooler) - c:\windows\system32\spoolsv.exe (v6.3.9600.16384)
+software protection (sppsvc) - c:\windows\system32\sppsvc.exe (v6.3.9600.16384)
+ssdp discovery (ssdpsrv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+secure socket tunneling protocol service (sstpsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+spot verifier (svsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+microsoft software shadow copy provider (swprv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+superfetch (sysmain) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+microsoft monitoring agent apm (system center management apm) - c:\program files\microsoft monitoring agent\agent\apmdotnetagent\interceptsvc.exe (v7.1.10285.0)
+system events broker (systemeventsbroker) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+telephony (tapisrv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+remote desktop services (termservice) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+themes (themes) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+thread ordering server (threadorder) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+storage tiers management (tieringengineservice) - c:\windows\system32\tieringengineservice.exe (v6.3.9600.17396)
+distributed link tracking client (trkwks) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows modules installer (trustedinstaller) - c:\windows\servicing\trustedinstaller.exe (v6.3.9600.16384)
+user access logging service (ualsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+interactive services detection (ui0detect) - c:\windows\system32\ui0detect.exe (v6.3.9600.16384)
+remote desktop services usermode port redirector (umrdpservice) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+upnp device host (upnphost) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+credential manager (vaultsvc) - c:\windows\system32\lsass.exe (v6.3.9600.17415)
+virtual disk (vds) - c:\windows\system32\vds.exe (v6.3.9600.16384)
+hyper-v guest service interface (vmicguestinterface) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+hyper-v heartbeat service (vmicheartbeat) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+hyper-v data exchange service (vmickvpexchange) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+hyper-v remote desktop virtualization service (vmicrdv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+hyper-v guest shutdown service (vmicshutdown) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+hyper-v time synchronization service (vmictimesync) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+hyper-v volume shadow copy requestor (vmicvss) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+volume shadow copy (vss) - c:\windows\system32\vssvc.exe (v6.3.9600.16384)
+windows time (w32time) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+w3c logging service (w3logsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+world wide web publishing service (w3svc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows process activation service (was) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+block level backup engine service (wbengine) - c:\windows\system32\wbengine.exe (v6.3.9600.16384)
+windows connection manager (wcmsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows color system (wcspluginservice) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+diagnostic service host (wdiservicehost) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+diagnostic system host (wdisystemhost) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows event collector (wecsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows encryption provider host service (wephostsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+problem reports and solutions control panel support (wercplsupport) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows error reporting service (wersvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows internal database vss writer (widwriter) - c:\windows\wid\binn\sqlwriter.exe (v11.0.2100.60)
+winhttp web proxy auto-discovery service (winhttpautoproxysvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows management instrumentation (winmgmt) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows remote management (ws-management) (winrm) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+wmi performance adapter (wmiapsrv) - c:\windows\system32\wbem\wmiapsrv.exe (v6.3.9600.16384)
+portable device enumerator service (wpdbusenum) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows store service (wsservice) (wsservice) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows update (wuauserv) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+windows driver foundation - user-mode driver framework (wudfsvc) - c:\windows\system32\svchost.exe (v6.3.9600.16384)
+zabbix agent (zabbix agent) - c:\zabbix\bin\win64\zabbix_agentd.exe (v2.4.4)
+
+
+--------------------------------------------------------------
+Asserting VmWarePlayer
+
+--------------------------------------------------------------
+Asserting HyperVMachine
+Detected as virtual machine given key computer information.
+Detected as virtual machine given hard disk information.
+DETECTED Microsoft Hyper-V!

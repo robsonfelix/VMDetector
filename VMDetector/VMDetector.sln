@@ -14,6 +14,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{4C9822
 		SharedAssemblyInfo.cs = SharedAssemblyInfo.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{38E1A116-41A1-4FCB-94F7-F30A49E0DCBA}"
+	ProjectSection(SolutionItems) = preProject
+		..\examples\Hyper-V on Windows Server Datacenter 2012 R2.txt = ..\examples\Hyper-V on Windows Server Datacenter 2012 R2.txt
+		..\examples\VMware Workstation 12 Player.txt = ..\examples\VMware Workstation 12 Player.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
