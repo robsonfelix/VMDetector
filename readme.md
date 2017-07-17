@@ -8,10 +8,12 @@ Compatibility:
 
 At a glance:
 ---
-
+**C#:**
+```csharp
 var hypervisorName = "";
 if (VirtualMachineDetector.Assert(out hypervisorName))
-	Console.WriteLine("DETECTED {0}!", hypervisorName);
+   Console.WriteLine("DETECTED {0}!", hypervisorName);
+```
 
 Latest Changes:
 ---
