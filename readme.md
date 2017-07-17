@@ -2,12 +2,13 @@ Detects whether your application is running inside a Virtual Machine.
 
 Platform status:
 ---
-  - VMWare Workstation Player - _COMPLETED_
-  - Microsoft Hyper-V under Windows Server Datacenter 2012 - _COMPLETED_
-  - Microsoft Virtual PC - _COMPLETED_
-  - QEMU - _PARTIALLY COMPLETED_
-  - VirtualBox - _IN PROGRESS_
-  - Xen - _TBD_
+  - VMWare Workstation Player - **COMPLETED**
+  - Microsoft Hyper-V under Windows Server Datacenter 2012 - **COMPLETED**
+  - Microsoft Virtual PC - **COMPLETED**
+  - QEMU - **PARTIALLY COMPLETED**
+  - VirtualBox - **IN PROGRESS**
+  - Xen - **TBD**
+  - Citrix - **TBD**
 
 Compatibility:
 ---
